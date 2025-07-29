@@ -1,0 +1,24 @@
+.product-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.product-card .card-body {
+  background: #f8f9fa;
+  padding: 1rem;
+}
+
+.product-card .card-footer {
+  background: white;
+  border-top: 1px solid #dee2e6;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}

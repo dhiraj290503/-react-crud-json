@@ -1,0 +1,122 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "pname": "12R",
+      "pprice": 38000,
+      "pcategory": "Electronics",
+      "pbrand": "OnePlus"
+    },
+    {
+      "pname": "Dell XPS 15 pro",
+      "pprice": "1450000",
+      "pcategory": "Electronics",
+      "pbrand": "Dell",
+      "id": 3
+    },
+    {
+      "id": 18,
+      "pname": "Boat Airdopes 441",
+      "pprice": 1999,
+      "pcategory": "Electronics",
+      "pbrand": "Boat"
+    },
+    {
+      "id": 19,
+      "pname": "Realme Narzo 70 Pro",
+      "pprice": 18999,
+      "pcategory": "Electronics",
+      "pbrand": "Realme"
+    },
+    {
+      "id": 21,
+      "pname": "Nike Air Max 270",
+      "pprice": 8999,
+      "pcategory": "Footwear",
+      "pbrand": "Nike"
+    },
+    {
+      "id": 22,
+      "pname": "Ultraboost",
+      "pprice": 10499,
+      "pcategory": "Footwear",
+      "pbrand": "Adidas"
+    },
+    {
+      "id": 23,
+      "pname": "Sports T-shirt",
+      "pprice": 799,
+      "pcategory": "Clothing",
+      "pbrand": "Puma"
+    },
+    {
+      "id": 24,
+      "pname": "Levi's Jeans 511",
+      "pprice": 2999,
+      "pcategory": "Clothing",
+      "pbrand": "Levi's"
+    },
+    {
+      "id": 25,
+      "pname": "Titan Smart Watch",
+      "pprice": 7995,
+      "pcategory": "Electronics",
+      "pbrand": "Titan"
+    },
+    {
+      "panme": "",
+      "pprice": "200000",
+      "pcategory": "Electronics",
+      "pbrand": "Samsung",
+      "pname": "s23 ultra",
+      "id": 27
+    },
+    {
+      "panme": "",
+      "pprice": "3000000",
+      "pcategory": "Electronics",
+      "pbrand": "Others",
+      "pname": "Cannon",
+      "id": 28
+    },
+    {
+      "panme": "",
+      "pprice": "2000",
+      "pcategory": "Electronics",
+      "pbrand": "Apple",
+      "pname": "lightining cable",
+      "id": 29
+    },
+    {
+      "panme": "",
+      "pprice": "2000",
+      "pcategory": "Electronics",
+      "pbrand": "Apple",
+      "pname": "lightining cable",
+      "id": 30
+    },
+    {
+      "panme": "",
+      "pprice": "2000",
+      "pcategory": "Electronics",
+      "pbrand": "Apple",
+      "pname": "lightining cable",
+      "id": 31
+    },
+    {
+      "panme": "",
+      "pprice": "2000",
+      "pcategory": "Electronics",
+      "pbrand": "Apple",
+      "pname": "lightining cable",
+      "id": 32
+    },
+    {
+      "pname": "charger",
+      "pprice": "2000",
+      "pcategory": "Electronics",
+      "pbrand": "Apple",
+      "id": 33
+    }
+  ]
+}
